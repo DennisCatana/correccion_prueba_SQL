@@ -1,9 +1,10 @@
+## Integrantes:
 ### Cataña Dennis
 ### Cocha Iveth
 ### Paredes Miguel
 ### Simba Cristian
 
-
+##  Pasos:
 ## Instalar la libreria
 ![img.png](img.png)
 ## Crear una base de datos en SQL Manager
